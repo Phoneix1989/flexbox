@@ -1,0 +1,154 @@
+.container_flex{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.flex_container{
+    display:flex;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    height: 50px;
+    grid-gap: 2px;
+}
+
+.grid_container > h1 {
+    margin: 0;
+    padding: 0;
+}
+.grid1 {
+    background-color: purple;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid2 {
+    background-color: yellow;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid3 {
+    background-color: green;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid4 {
+    background-color: orange;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid5 {
+    background-color: purple;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid6 {
+    background-color: yellow;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid7 {
+    background-color: green;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid8 {
+    background-color: orange;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid9 {
+    background-color: blueviolet;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid10 {
+    background-color: violet;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid11 {
+    background-color: navy;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid12 {
+    background-color: darkcyan;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid13 {
+    background-color: olivedrab;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid14 {
+    background-color: peru;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid15 {
+    background-color: saddlebrown;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid16 {
+    background-color: yellowgreen;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tab1{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tab2{
+    background-color: yellow;
+    width: fit-content;
+    
+}
+.tab3{
+    background-color: ;
+}
